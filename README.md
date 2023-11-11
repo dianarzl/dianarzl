@@ -34,7 +34,7 @@ These are the tools and technologies I frequently use:
 
 ## Connect with Me
 
-- [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/diana-rizal/))
+- [LinkedIn](your-linkedin-profile](https://www.linkedin.com/in/diana-rizal/)
 - [Portfolio Website](your-portfolio-website)
 
 Feel free to reach out and connect!
