@@ -17,13 +17,6 @@ I'm Diana Rizal, a fifth-semester student majoring in Information Systems. ðŸ‘¨â
 - Power BI
 - Python (currently learning)
 
-## Projects
-
-Here are some of the projects I've worked on:
-
-1. [Project Name 1](link-to-project1) - Brief description of the project.
-2. [Project Name 2](link-to-project2) - Brief description of the project.
-
 ## Tools
 
 These are the tools and technologies I frequently use:
@@ -34,8 +27,16 @@ These are the tools and technologies I frequently use:
 
 ## Connect with Me
 
-- [LinkedIn](your-linkedin-profile](https://www.linkedin.com/in/diana-rizal/)
-- [Portfolio Website](your-portfolio-website)
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/diana-rizal/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC5N8N5AEOGA7m-BD33Xk5Vw">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 Feel free to reach out and connect!
 
