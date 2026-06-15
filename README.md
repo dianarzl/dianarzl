@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-I'm Diana Rizal, a fifth-semester student majoring in Information Systems. 👨‍💻
-
 ## About Me
 
 - 🎓 Currently pursuing a degree in Information Systems.
